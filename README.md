@@ -1,3 +1,5 @@
+The following is automatically copy pasted from <https://www.cyclic.sh/posts/how-to-build-a-telegram-bot/> because i randomly wanted to learn how to make a telegram bot for fun at 4am. 
+
 # Telegram Bot, built on Cyclic 🤖
 
 Say hello to the Telegram Bot template! Built on the [grammY](https://grammy.dev/) framework and hosted by the [Cyclic](https://www.cyclic.sh/) serverless platform.
